@@ -190,7 +190,7 @@ article p{font-size:16px;line-height:1.4;margin:5px 0}
 @media screen and (min-width:1500px){.video-container h3,article h3{font-size:20px}}
 .video-container h2,.video-container h3,article h2,article h3{margin-top:20px}
 .author-box{background-color:#2B2D32;color:#FFF;margin:0;padding:50px 4%;display:flex;flex-direction:row;flex-wrap:nowrap;justify-content:space-between;align-content:stretch;align-items:center}
-.author-box .avatar{background-image:url(/wp-content/themes/img/metricon-stadium.jpg);background-size:cover;height:120px;border-radius:50%;margin-right:20px;min-width:120px;width:120px}
+.author-box .avatar{background-image:url(/demos/magazine/wp-content/themes/img/metricon-stadium.jpg);background-size:cover;height:120px;border-radius:50%;margin-right:20px;min-width:120px;width:120px}
 .author-box .text a{color:#FFF;font-size:24px;font-weight:800;margin-bottom:10px;text-decoration:none}
 .author-box .text p{font-size:18px;margin:5px 0}
 .author-box .text span a{float:none;font-size:16px;font-weight:400;font-style:italic;width:auto}
@@ -355,7 +355,7 @@ section.big-list ul li span{color:#8C8C8C;font-size:13px}
 .archive.tag article p,.author article p,.category article p,.search-results article p{font-size:16px;line-height:1.2;margin:0;width:78%}
 .archive.tag article p.url,.author article p.url,.category article p.url,.search-results article p.url{color:#006800;font-size:14px;margin:5px 0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
 .archive.tag article .imgBg,.author article .imgBg,.category article .imgBg,.search-results article .imgBg{background-image:url(http://placehold.it/350x150);background-position:center;background-size:cover;float:right;height:120px;margin-bottom:10px;width:20%}
-.hub-header{background-color:#444;background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.4)),url(/wp-content/themes/img/metricon-stadium.jpg);background-size:cover;float:left;height:400px;margin:20px 0}
+.hub-header{background-color:#444;background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.4)),url(/demos/magazine/wp-content/themes/img/metricon-stadium.jpg);background-size:cover;float:left;height:400px;margin:20px 0}
 .hub-header ul li{background-color:#3C474B;border-right:1px solid #666;border-bottom:1px solid #666;font-family:Montserrat,Helvetica,sans-serif;line-height:1;font-size:14px;font-weight:800;text-align:center;text-transform:uppercase}
 .hub-header ul li:nth-last-child(1){border-right:none}
 .hub-header ul li:hover{background-color:#000}
@@ -404,7 +404,7 @@ section.gallery ul li:nth-child(6){margin-right:0}
 .pushy-submenu button{width:100%;color:#b3b3b1;padding:15px 30px;text-align:left;background:0 0;border:0}
 .pushy-submenu button:hover{color:#FFF}
 .pushy-submenu>a,.pushy-submenu>button{position:relative}
-.pushy-submenu>a::after,.pushy-submenu>button::after{content:'';display:block;height:11px;width:8px;position:absolute;top:50%;right:15px;background:url(/wp-content/themes/img/arrow.svg) no-repeat;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);transition:transform .2s}
+.pushy-submenu>a::after,.pushy-submenu>button::after{content:'';display:block;height:11px;width:8px;position:absolute;top:50%;right:15px;background:url(/demos/magazine/wp-content/themes/img/arrow.svg) no-repeat;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);transition:transform .2s}
 .pushy-submenu-closed ul{max-height:0;overflow:hidden;visibility:hidden}
 .pushy-submenu-closed .pushy-link{opacity:0}
 .pushy-submenu-open ul{max-height:1000px;visibility:visible}
