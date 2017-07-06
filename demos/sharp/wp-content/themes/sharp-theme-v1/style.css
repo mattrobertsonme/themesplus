@@ -9,7 +9,7 @@ li,p{font-size:16px}
 .flex-item,footer .footer-social,footer .footer-text{order:0;flex:0 1 auto;align-self:auto}
 .section-divider-2{background:linear-gradient(to bottom right,#EDEDED 49%,#FFF 50%);height:40px;position:relative}
 @media screen and (min-width:768px){.section-divider-2{height:80px}}
-header{background-color:#4E4A59;border-bottom:1px solid #DDD;padding:20px 5% 0;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-content:stretch;align-items:center}
+header{border-bottom:1px solid #DDD;padding:20px 5% 0;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center;align-content:stretch;align-items:center}
 @media screen and (min-width:768px){header{padding:20px 18% 20px 20%;flex-direction:row;justify-content:space-between;align-content:center}}
 header .logo{font-size:20px;line-height:1;margin:0;text-transform:uppercase}
 @media screen and (min-width:768px){header .logo{font-size:30px}}
@@ -25,7 +25,7 @@ header nav ul li{font-size:14px;line-height:1;margin:20px 0 5px 10px;text-transf
 header nav ul li a{color:#fff}
 header nav ul li a:focus,header nav ul li a:hover{color:#CCC;text-decoration:none}
 header nav ul li.current_page_item a{color:#CCC}
-.hero-full{background-color:#4E4A59;background-attachment:fixed;float:left;height:auto;min-height:540px;padding:50px 0;width:100%;background-image:url(http://mattrobertson.me/wp-content/uploads/melbourne.jpg);background-image:url(/demos/sharp/wp-content/themes/img/cover/one.jpg);background-repeat:no-repeat;background-position:center;background-size:cover;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:space-between;align-content:center;align-items:center}
+.hero-full{background-attachment:fixed;float:left;height:auto;min-height:540px;padding:50px 0;width:100%;background-image:url(http://mattrobertson.me/wp-content/uploads/melbourne.jpg);background-image:url(/demos/sharp/wp-content/themes/img/cover/one.jpg);background-repeat:no-repeat;background-position:center;background-size:cover;display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:space-between;align-content:center;align-items:center}
 @media screen and (min-width:360px){.hero-full{min-height:540px}}
 @media screen and (min-width:768px){.hero-full{min-height:924px}}
 @media screen and (min-width:1024px){.hero-full{min-height:100vh}}
@@ -37,6 +37,8 @@ header nav ul li.current_page_item a{color:#CCC}
 @media screen and (min-width:768px){.hero-full .hero-body p{font-size:30px}}
 .hero-full .hero-body .logo{border:5px solid #FFF;font-size:24px;line-height:1;margin-top:-10px;padding:5px 6px}
 @media screen and (min-width:768px){.hero-full .hero-body .logo{font-size:70px;margin-top:-5px;padding:10px 12px}}
+.hero-full .hero-body#bottom{margin-top:200px}
+@media screen and (min-width:1680px){.hero-full .hero-body#bottom{margin-top:530px}}
 .hero-full .hero-footer .bounce{animation:MoveUpDown 3s linear infinite;position:absolute;width:100%;bottom:0}
 .hero-full .hero-footer i{color:#FFF;font-size:30px}
 @media screen and (min-width:768px){.hero-full .hero-footer i{font-size:40px}}
