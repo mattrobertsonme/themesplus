@@ -7,7 +7,7 @@
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
         <link href="/demos/agency/simple/wp-content/themes/agency-theme-v1/img/icons/favicon.ico" rel="shortcut icon">
         <link href="/demos/agency/simple/wp-content/themes/agency-theme-v1/img/icons/touch.png" rel="apple-touch-icon-precomposed">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <script src="https://use.fontawesome.com/02f0644232.js"></script>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="/demos/agency/simple/wp-content/themes/agency-theme-v1/css/bootstrap.min.css">
 
@@ -67,16 +67,20 @@ img.emoji {
                 </div>
             
             <div class="nav">
-                <ul><li id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6"><a href="#brand">Our Brand</a></li>
-<li id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a href="#websites">Our Websites</a></li>
-<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="#team">Meet the Team</a></li>
-<li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="#contact">Contact</a></li>
+                <ul><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-6" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6 dropdown"><a title="Our Brand" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Our Brand <span class="caret"></span></a>
+<ul role="menu" class="dropdown-menu" >
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-77"><a title="12" href="/demos/agency/simple/products/12-2/">12</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-products menu-item-78"><a title="11" href="/demos/agency/simple/products/11-2/">11</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7"><a title="Our Websites" href="#websites">Our Websites</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a title="Meet the Team" href="#team">Meet the Team</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a title="Contact" href="#contact">Contact</a></li>
 </ul>            </div>
             </div>
         </header>
 
-	       <div class="jumbotron has-image fullscreen" style="background-image: url(/demos/agency/simple/wp-content/uploads/2017/07/breather-168766.jpg); background-size: cover;background-position: center center;">
-       
+	            <div class="jumbotron fullscreen" style="background-color: #000000">
                     <div class="container">
                                
                 <h1 class="no">black + white</h1>
@@ -85,7 +89,9 @@ img.emoji {
             </div>
         </div>
         
-        <div class="container" id="brand">
+        <main>
+        <section id="brand">
+        <div class="container">
             <div class="row">
                 <div class="col-xs-12">
                     <h2 class="text-center">Our Brand</h2>
@@ -128,8 +134,9 @@ img.emoji {
                 </div>
             </div>
         </div>
+        </section>
         
-        <div class="portfolio" id="websites">
+        <section id="websites" style="background-color:#EFE3D9">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
@@ -178,9 +185,9 @@ img.emoji {
                         <img src="/demos/agency/simple/wp-content/uploads/2017/07/adrian-202474.jpg" class="attachment-360x360 size-360x360 wp-post-image" alt="" srcset="/demos/agency/simple/wp-content/uploads/2017/07/adrian-202474.jpg 400w, /demos/agency/simple/wp-content/uploads/2017/07/adrian-202474-150x150.jpg 150w, /demos/agency/simple/wp-content/uploads/2017/07/adrian-202474-250x250.jpg 250w, /demos/agency/simple/wp-content/uploads/2017/07/adrian-202474-120x120.jpg 120w" sizes="(max-width: 360px) 100vw, 360px" />                    </div>
                                     </div>
             </div>
-        </div>
+        </section>
         
-        <div class="team" id="team">
+        <section id="team" style="background-color:#F4F4F6">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
@@ -188,33 +195,62 @@ img.emoji {
                     </div>
                     
                     <div class="col-xs-12 col-md-3 text-center macro-network">
-                        <img src="/demos/agency/simple/wp-content/uploads/2017/07/wonho-sung-91804.jpg">
+                        <img class="img-circle" src="/demos/agency/simple/wp-content/uploads/2017/07/averie-woodard-147361.jpg">
                         <h3>Richard Robertson</h3>
                         <p>Founder/CEO</p>
+                        
+                        <ul class="social">
+                            <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        </ul>
                     </div>
                     
                     <div class="col-xs-12 col-md-3 text-center macro-network">
-                        <img src="/demos/agency/simple/wp-content/uploads/2017/07/joe-gardner-74378.jpg">
+                        <img class="img-circle" src="/demos/agency/simple/wp-content/uploads/2017/07/hamburger-arts-260481.jpg">
                         <h3>Wayne Robertson</h3>
                         <p>Marketing Director</p>
+                        
+                        <ul class="social">
+                            <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        </ul>
                     </div>
                     
                     <div class="col-xs-12 col-md-3 text-center macro-network">
-                        <img src="/demos/agency/simple/wp-content/uploads/2017/07/ryan-pouncy-90871.jpg">
+                        <img class="img-circle" src="/demos/agency/simple/wp-content/uploads/2017/07/lesly-b-juarez-230709.jpg">
                         <h3>Matthew Robertson</h3>
                         <p>Web Developer</p>
+                        
+                        <ul class="social">
+                            <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        </ul>
                     </div>
                     
                     <div class="col-xs-12 col-md-3 text-center macro-network">
-                        <img src="/demos/agency/simple/wp-content/uploads/2017/07/ayo-ogunseinde-93181.jpg">
+                        <img class="img-circle" src="/demos/agency/simple/wp-content/uploads/2017/07/guillaume-bolduc-246404.jpg">
                         <h3>Jason Robertson</h3>
                         <p>Web Designer</p>
+                        
+                        <ul class="social">
+                            <li><a href=""><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                            <li><a href=""><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
         
-        <div class="container contact" id="contact">
+        <section id="contact">
+        <div class="container">
             <div class="row">
                 <div class="col-xs-12">
                     <h2 class="text-center">Contact</h2>
@@ -260,7 +296,8 @@ img.emoji {
                 </div>
             </div>
         </div>
-
+        </section>
+</main>
 			<footer>
             <div class="container text-center">
                 <div class="col-xs-2 col-xs-push-5 footer-logo">
