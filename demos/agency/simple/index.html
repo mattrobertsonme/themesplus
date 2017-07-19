@@ -56,10 +56,10 @@ img.emoji {
             tests: {}
         });
         </script>
-
 	</head>
+	
 	<body class="home page-template page-template-page-simple-static page-template-page-simple-static-php page page-id-4 simple-static-page">
-        <header class="fullscreen">
+        <header class="fullscreen navbar-fixed-top">
             <div class="container">
                 <div class="header-logo">
                     <a href="/demos/agency/simple">
@@ -80,7 +80,8 @@ img.emoji {
             </div>
         </header>
 
-	            <div class="jumbotron fullscreen" style="background-color: #000000">
+	       <div class="jumbotron has-image fullscreen" style="background-image: url(/demos/agency/simple/wp-content/uploads/2017/07/brad-neathery-248309.jpg); background-size: cover;background-position: center center;">
+       
                     <div class="container">
                                
                 <h1 class="no">black + white</h1>
@@ -357,6 +358,12 @@ img.emoji {
         
         <!-- Filter -->
         <script src="/demos/agency/simple/wp-content/themes/agency-theme-v1/js/filter.js"></script>
-
+        
+        <script>
+            $(window).on("scroll touchmove", function () {
+            $('header>.container').toggleClass('sticky', $(document).scrollTop() > 0);
+            $('header>.container-fluid').toggleClass('sticky', $(document).scrollTop() > 0);
+            $('header').toggleClass('sticky', $(document).scrollTop() > 130); });
+        </script>
 	</body>
 </html>
