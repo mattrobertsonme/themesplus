@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Agency &#8211; Components</title>
+	<atom:link href="/demos/agency/components/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/agency/components</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 21 Jul 2017 11:58:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+	<item>
+		<title>Single Post Image</title>
+		<link>/demos/agency/components/2017/07/21/single-post-image/</link>
+		<comments>/demos/agency/components/2017/07/21/single-post-image/#respond</comments>
+		<pubDate>Fri, 21 Jul 2017 09:43:14 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Blog]]></category>
+
+		<guid isPermaLink="false">http://localhost/agency/simple/?p=165</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt soluta, consectetur in neque itaque corporis animi optio consequatur sunt fuga voluptate ex quas incidunt excepturi consequuntur eius error suscipit similique sit laborum quibusdam, tenetur mollitia. Et sapiente, illo dignissimos voluptas quos aliquid minima hic cumque officia explicabo maiores incidunt itaque cum ut aspernatur reprehenderit nemo,... <a class="view-article" href="/demos/agency/components/2017/07/21/single-post-image/"></a>]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt soluta, consectetur in neque itaque corporis animi optio consequatur sunt fuga voluptate ex quas incidunt excepturi consequuntur eius error suscipit similique sit laborum quibusdam, tenetur mollitia. Et sapiente, illo dignissimos voluptas quos aliquid minima hic cumque officia explicabo maiores incidunt itaque cum ut aspernatur reprehenderit nemo, dolorum nisi laboriosam id corrupti.</p>
+<p>Velit praesentium distinctio vero maiores facilis deserunt dignissimos minima eum porro nisi architecto nemo repudiandae sequi enim quo, inventore ipsum, at neque, quis in recusandae culpa eius optio facere doloremque! Pariatur reiciendis nam nihil perspiciatis id animi ratione ipsum. Ullam laudantium, praesentium fugiat minima, tempore sequi laborum itaque, ipsum eaque rem temporibus commodi ex deserunt voluptatem consequatur beatae recusandae vel.</p>
+<p>Soluta nisi ipsa quae minus numquam obcaecati molestiae esse vel dolore quibusdam id eveniet, ad tempore vero amet voluptatem culpa beatae. Laudantium ex impedit suscipit, quaerat accusamus omnis et animi. Quam harum inventore eum velit id quaerat alias, culpa natus nulla distinctio repellendus est, libero! Dicta id quo, odit. Iusto necessitatibus eligendi quae, praesentium, recusandae qui culpa placeat corporis eveniet?</p>
+<p>Cumque quisquam assumenda accusantium minima delectus hic quae ipsa numquam aliquam doloribus, sed eum, mollitia ipsum odio iusto quo ad fugit ea repellendus perspiciatis non, aspernatur nostrum nam, repellat suscipit! Quis, eius repellat, pariatur reiciendis enim nostrum voluptatibus numquam porro! Amet, illo, placeat! Tempore repellat sapiente aliquam quae animi minus vel corrupti, dolore assumenda, fugit nulla enim nihil a dolor.</p>
+<p>Ipsa tempora asperiores dolores commodi fuga rerum soluta dolore blanditiis mollitia, nisi excepturi sunt maxime voluptatibus officiis ratione libero tempore facilis assumenda dicta facere quibusdam! Enim, atque similique ea alias, aperiam odit dolorum magnam sapiente consequuntur fugit sit dolore amet quo ipsam fuga inventore culpa debitis accusamus dolores nulla nesciunt, placeat libero non, unde cumque. Aut, rerum deserunt natus perspiciatis.</p>
+<p>Nesciunt aspernatur hic, beatae omnis? Voluptatum pariatur iste harum vero eligendi alias magni explicabo. Sint quisquam reprehenderit ratione aspernatur consequuntur hic officiis voluptates porro, unde accusamus dolorem. Aspernatur, error, est unde ipsum dignissimos quibusdam dolores facere velit amet enim sapiente minima odio neque labore. Aspernatur in tempore non quidem beatae eum vel ea illo deleniti expedita officia reprehenderit ullam, perspiciatis.</p>
+]]></content:encoded>
+			<wfw:commentRss>/demos/agency/components/2017/07/21/single-post-image/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Single Post Standard</title>
+		<link>/demos/agency/components/2017/07/21/single-post-standard/</link>
+		<comments>/demos/agency/components/2017/07/21/single-post-standard/#respond</comments>
+		<pubDate>Fri, 21 Jul 2017 07:48:45 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://localhost/agency/simple/?p=158</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt soluta, consectetur in neque itaque corporis animi optio consequatur sunt fuga voluptate ex quas incidunt excepturi consequuntur eius error suscipit similique sit laborum quibusdam, tenetur mollitia. Et sapiente, illo dignissimos voluptas quos aliquid minima hic cumque officia explicabo maiores incidunt itaque cum ut aspernatur reprehenderit nemo,... <a class="view-article" href="/demos/agency/components/2017/07/21/single-post-standard/"></a>]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt soluta, consectetur in neque itaque corporis animi optio consequatur sunt fuga voluptate ex quas incidunt excepturi consequuntur eius error suscipit similique sit laborum quibusdam, tenetur mollitia. Et sapiente, illo dignissimos voluptas quos aliquid minima hic cumque officia explicabo maiores incidunt itaque cum ut aspernatur reprehenderit nemo, dolorum nisi laboriosam id corrupti.</p>
+<p>Velit praesentium distinctio vero maiores facilis deserunt dignissimos minima eum porro nisi architecto nemo repudiandae sequi enim quo, inventore ipsum, at neque, quis in recusandae culpa eius optio facere doloremque! Pariatur reiciendis nam nihil perspiciatis id animi ratione ipsum. Ullam laudantium, praesentium fugiat minima, tempore sequi laborum itaque, ipsum eaque rem temporibus commodi ex deserunt voluptatem consequatur beatae recusandae vel.</p>
+<p>Soluta nisi ipsa quae minus numquam obcaecati molestiae esse vel dolore quibusdam id eveniet, ad tempore vero amet voluptatem culpa beatae. Laudantium ex impedit suscipit, quaerat accusamus omnis et animi. Quam harum inventore eum velit id quaerat alias, culpa natus nulla distinctio repellendus est, libero! Dicta id quo, odit. Iusto necessitatibus eligendi quae, praesentium, recusandae qui culpa placeat corporis eveniet?</p>
+<p>Cumque quisquam assumenda accusantium minima delectus hic quae ipsa numquam aliquam doloribus, sed eum, mollitia ipsum odio iusto quo ad fugit ea repellendus perspiciatis non, aspernatur nostrum nam, repellat suscipit! Quis, eius repellat, pariatur reiciendis enim nostrum voluptatibus numquam porro! Amet, illo, placeat! Tempore repellat sapiente aliquam quae animi minus vel corrupti, dolore assumenda, fugit nulla enim nihil a dolor.</p>
+<p>Ipsa tempora asperiores dolores commodi fuga rerum soluta dolore blanditiis mollitia, nisi excepturi sunt maxime voluptatibus officiis ratione libero tempore facilis assumenda dicta facere quibusdam! Enim, atque similique ea alias, aperiam odit dolorum magnam sapiente consequuntur fugit sit dolore amet quo ipsam fuga inventore culpa debitis accusamus dolores nulla nesciunt, placeat libero non, unde cumque. Aut, rerum deserunt natus perspiciatis.</p>
+<p>Nesciunt aspernatur hic, beatae omnis? Voluptatum pariatur iste harum vero eligendi alias magni explicabo. Sint quisquam reprehenderit ratione aspernatur consequuntur hic officiis voluptates porro, unde accusamus dolorem. Aspernatur, error, est unde ipsum dignissimos quibusdam dolores facere velit amet enim sapiente minima odio neque labore. Aspernatur in tempore non quidem beatae eum vel ea illo deleniti expedita officia reprehenderit ullam, perspiciatis.</p>
+]]></content:encoded>
+			<wfw:commentRss>/demos/agency/components/2017/07/21/single-post-standard/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/demos/agency/components/2017/07/21/hello-world/</link>
+		<comments>/demos/agency/components/2017/07/21/hello-world/#comments</comments>
+		<pubDate>Fri, 21 Jul 2017 11:34:39 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/demos/agency/components/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>/demos/agency/components/2017/07/21/hello-world/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/demos/agency/components/2017/07/07/hello-world-2/</link>
+		<comments>/demos/agency/components/2017/07/07/hello-world-2/#comments</comments>
+		<pubDate>Fri, 07 Jul 2017 15:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://localhost/agency/simple/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+			<wfw:commentRss>/demos/agency/components/2017/07/07/hello-world-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
