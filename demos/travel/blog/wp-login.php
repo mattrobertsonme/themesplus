@@ -12,7 +12,11 @@
 <link rel='stylesheet' href='/demos/travel/blog/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-		</head>
+	<link rel="icon" href="/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/08/cropped-logo-270x270.png" />
+	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Travelling Wisdom</a></h1>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thailand &#8211; Travelling Wisdom</title>
+	<atom:link href="/demos/travel/blog/tag/thailand/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/travel/blog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Aug 2017 11:27:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png</url>
+	<title>Thailand &#8211; Travelling Wisdom</title>
+	<link>/demos/travel/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Experiencing the Magic of Thailand</title>
+		<link>/demos/travel/blog/experiencing-the-magic-of-thailand/</link>
+		<comments>/demos/travel/blog/experiencing-the-magic-of-thailand/#respond</comments>
+		<pubDate>Sun, 05 Jul 2015 13:36:22 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Travel Tips]]></category>
+		<category><![CDATA[South East Asia]]></category>
+		<category><![CDATA[Thailand]]></category>
+
+		<guid isPermaLink="false">http://happytravlr.com/?p=181</guid>
+		<description><![CDATA[For years now, Thailand has been dominating the tourist population throughout all of Southeast Asia. Whether it is the pristine white sandy beaches, the magnificent temples or the friendly locals <a href="/demos/travel/blog/experiencing-the-magic-of-thailand/" rel="nofollow">Read More</a>]]></description>
+		<wfw:commentRss>/demos/travel/blog/experiencing-the-magic-of-thailand/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Top 3 Reasons to Head to Southeast Asia</title>
+		<link>/demos/travel/blog/top-3-reasons-to-head-to-southeast-asia/</link>
+		<comments>/demos/travel/blog/top-3-reasons-to-head-to-southeast-asia/#respond</comments>
+		<pubDate>Sun, 14 Jun 2015 01:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Travel Tips]]></category>
+		<category><![CDATA[South East Asia]]></category>
+		<category><![CDATA[Thailand]]></category>
+
+		<guid isPermaLink="false">http://happytravlr.com/?p=172</guid>
+		<description><![CDATA[For those looking to get away for a while, away from the stresses of work and the worries of everyday routine and yet not break the bank, there simply is <a href="/demos/travel/blog/top-3-reasons-to-head-to-southeast-asia/" rel="nofollow">Read More</a>]]></description>
+		<wfw:commentRss>/demos/travel/blog/top-3-reasons-to-head-to-southeast-asia/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

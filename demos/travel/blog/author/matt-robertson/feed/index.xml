@@ -17,6 +17,14 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png</url>
+	<title>Matt Robertson &#8211; Travelling Wisdom</title>
+	<link>/demos/travel/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>The 28 Best Truths Of The Last 10 Years</title>
 		<link>/demos/travel/blog/the-28-best-truths-of-the-last-10-years/</link>

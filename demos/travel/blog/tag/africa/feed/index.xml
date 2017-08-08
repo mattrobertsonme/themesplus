@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Africa &#8211; Travelling Wisdom</title>
+	<atom:link href="/demos/travel/blog/tag/africa/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/travel/blog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Aug 2017 11:27:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png</url>
+	<title>Africa &#8211; Travelling Wisdom</title>
+	<link>/demos/travel/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Animals of Africa</title>
+		<link>/demos/travel/blog/the-animals-of-africa/</link>
+		<comments>/demos/travel/blog/the-animals-of-africa/#respond</comments>
+		<pubDate>Sun, 29 Mar 2015 11:21:53 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Image Gallery]]></category>
+		<category><![CDATA[Africa]]></category>
+
+		<guid isPermaLink="false">http://happytravlr.com/?p=60</guid>
+		<description><![CDATA[In most parts of Africa dangerous wildlife should be of only very minor, if any, concern at all. In some parts of East Africa and South Africa large abundances of <a href="/demos/travel/blog/the-animals-of-africa/" rel="nofollow">Read More</a>]]></description>
+		<wfw:commentRss>/demos/travel/blog/the-animals-of-africa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

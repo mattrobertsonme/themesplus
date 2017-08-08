@@ -17,6 +17,14 @@
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png</url>
+	<title>Australia &#8211; Travelling Wisdom</title>
+	<link>/demos/travel/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>/demos/travel/blog/hello-world/</link>

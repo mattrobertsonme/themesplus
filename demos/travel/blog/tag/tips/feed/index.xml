@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tips &#8211; Travelling Wisdom</title>
+	<atom:link href="/demos/travel/blog/tag/tips/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/travel/blog</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Mon, 07 Aug 2017 11:27:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.1</generator>
+
+<image>
+	<url>/demos/travel/blog/wp-content/uploads/2017/08/cropped-logo-32x32.png</url>
+	<title>Tips &#8211; Travelling Wisdom</title>
+	<link>/demos/travel/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tips for Successful Road Trips</title>
+		<link>/demos/travel/blog/tips-for-successful-road-trips/</link>
+		<comments>/demos/travel/blog/tips-for-successful-road-trips/#respond</comments>
+		<pubDate>Tue, 10 Mar 2015 02:25:43 +0000</pubDate>
+		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
+				<category><![CDATA[Travel Tips]]></category>
+		<category><![CDATA[Car]]></category>
+		<category><![CDATA[Tips]]></category>
+
+		<guid isPermaLink="false">http://happytravlr.com/?p=8</guid>
+		<description><![CDATA[When the summer season is approaching, we start planning the vacation. Where to go? What there is to see and do at our destination? These are just some of the <a href="/demos/travel/blog/tips-for-successful-road-trips/" rel="nofollow">Read More</a>]]></description>
+		<wfw:commentRss>/demos/travel/blog/tips-for-successful-road-trips/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
