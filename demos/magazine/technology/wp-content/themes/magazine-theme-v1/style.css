@@ -206,7 +206,7 @@ nav.footer ul.social i{font-size:18px}
 .pushy-submenu button{width:100%;color:#b3b3b1;padding:15px 30px;text-align:left;background:0 0;border:0}
 .pushy-submenu button:hover{color:#FFF}
 .pushy-submenu>a,.pushy-submenu>button{position:relative}
-.pushy-submenu>a::after,.pushy-submenu>button::after{content:'';display:block;height:11px;width:8px;position:absolute;top:50%;right:15px;background:url(/magazine/technology/wp-content/themes/img/arrow.svg?1708230020) no-repeat;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);-webkit-transition:-webkit-transform .2s;transition:transform .2s}
+.pushy-submenu>a::after,.pushy-submenu>button::after{content:'';display:block;height:11px;width:8px;position:absolute;top:50%;right:15px;background:url(/demos/magazine/technology/wp-content/themes/img/arrow.svg?1708230020) no-repeat;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);-webkit-transition:-webkit-transform .2s;transition:transform .2s}
 .pushy-submenu-closed ul{max-height:0;overflow:hidden;visibility:hidden}
 .pushy-submenu-closed .pushy-link{opacity:0}
 .pushy-submenu-open ul{max-height:1000px;visibility:visible}
@@ -297,7 +297,7 @@ body.single-post img{float:left;width:100%}
 article{float:left}
 .author-box{background-color:#2B2D32;color:#FFF;margin:0;padding:50px 4%;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:nowrap;-ms-flex-wrap:nowrap;flex-wrap:nowrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;-webkit-align-content:stretch;-ms-flex-line-pack:stretch;align-content:stretch;-webkit-box-align:center;-webkit-align-items:center;-ms-flex-align:center;align-items:center}
 .author-box ul{list-style:none;padding:0}
-.author-box .avatar{background-image:url(/magazine/technology/wp-content/themes/img/metricon-stadium.jpg?1708230020);background-size:cover;height:120px;border-radius:50%;margin-right:20px;min-width:120px;width:120px}
+.author-box .avatar{background-image:url(/demos/magazine/technology/wp-content/themes/img/metricon-stadium.jpg?1708230020);background-size:cover;height:120px;border-radius:50%;margin-right:20px;min-width:120px;width:120px}
 .author-box .text a{color:#FFF;font-size:24px;font-weight:800;margin-bottom:10px;text-decoration:none}
 .author-box .text p{font-size:18px;margin:5px 0}
 .author-box .text span a{float:none;font-size:16px;font-weight:400;font-style:italic;width:auto}

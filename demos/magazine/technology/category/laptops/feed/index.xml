@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Laptops &#8211; Happy Technology</title>
-	<atom:link href="/magazine/technology/category/laptops/feed/" rel="self" type="application/rss+xml" />
-	<link>/magazine/technology</link>
+	<atom:link href="/demos/magazine/technology/category/laptops/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/magazine/technology</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 22 Aug 2017 12:59:52 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,16 +19,16 @@
 	<generator>https://wordpress.org/?v=4.8.1</generator>
 
 <image>
-	<url>/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png</url>
+	<url>/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png</url>
 	<title>Laptops &#8211; Happy Technology</title>
-	<link>/magazine/technology</link>
+	<link>/demos/magazine/technology</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Surface Pro 5 release date, news and rumors</title>
-		<link>/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/</link>
-		<comments>/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/#respond</comments>
+		<link>/demos/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/</link>
+		<comments>/demos/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/#respond</comments>
 		<pubDate>Wed, 19 Apr 2017 19:49:56 +0000</pubDate>
 		<dc:creator><![CDATA[Matt Robertson]]></dc:creator>
 				<category><![CDATA[Laptops]]></category>
@@ -36,14 +36,14 @@
 		<category><![CDATA[Surface Pro]]></category>
 
 		<guid isPermaLink="false">http://localhost/magazine-theme-v1/?p=91</guid>
-		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ut neque quis suscipit. Nulla sed libero venenatis, scelerisque ante<a href="/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/" rel="nofollow">...</a>]]></description>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ut neque quis suscipit. Nulla sed libero venenatis, scelerisque ante<a href="/demos/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/" rel="nofollow">...</a>]]></description>
 				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ut neque quis suscipit. Nulla sed libero venenatis, scelerisque ante vitae, convallis dui. Sed molestie lacus eget urna lacinia, eget facilisis neque tempor. Phasellus et tellus tellus. Ut tortor nisl, posuere ut tincidunt vel, blandit a orci. Ut consequat, turpis et tincidunt malesuada, ante est feugiat turpis, et tempor sem ligula at quam. Integer tincidunt pulvinar ex. Nam rutrum mattis ligula, vel fermentum massa hendrerit laoreet. Cras dictum convallis nunc. Sed mollis porta lorem eget tempor.</p>
 <p>Suspendisse velit enim, lobortis sed viverra a, mattis sit amet turpis. Morbi leo neque, auctor sit amet sagittis nec, facilisis a arcu. Nunc interdum ex nec velit rhoncus molestie. Donec id metus mauris. Mauris velit lectus, congue sed nunc vel, maximus laoreet nisi. Vivamus sit amet ipsum eleifend, venenatis felis nec, elementum lacus. Mauris magna sem, consectetur non porta vel, efficitur sed orci.</p>
 <p>Nulla gravida nunc tempor faucibus molestie. Vestibulum nec tempus dui. Aenean malesuada nec diam eget vulputate. Donec sit amet purus id augue consequat venenatis. Fusce vulputate eros felis, at tincidunt neque auctor sit amet. Mauris tellus elit, pretium nec facilisis sed, pellentesque eu nibh. Mauris quis velit nisi. Curabitur et accumsan ipsum, eu iaculis neque. Vestibulum nibh risus, efficitur at massa in, efficitur eleifend ligula. Integer eu velit ante. Nulla a viverra elit, sit amet ultrices turpis. Sed eu erat a odio commodo porta pulvinar at tellus.</p>
 <p>Etiam finibus mauris sem, quis elementum dolor aliquam ut. Vivamus at sollicitudin orci. Morbi ultrices nisl ac dui convallis egestas. Curabitur dignissim faucibus velit, sed vulputate augue ullamcorper quis. Aliquam molestie blandit lacus, eget cursus nulla dapibus in. Nulla sed diam id libero aliquam tempus. In et fringilla ex, sed molestie tellus. Nam euismod metus lectus, et ultrices arcu placerat nec. Vivamus vestibulum augue turpis, eu laoreet ipsum blandit in. Nam ultrices nibh placerat neque mattis vehicula.</p>
 <p>Morbi quis ante id diam blandit aliquam. Proin sem sem, fringilla vitae mauris et, tempus lacinia dolor. Donec aliquet felis malesuada nunc finibus, a euismod risus pretium. Pellentesque hendrerit felis id pharetra semper. Nunc vel suscipit sapien. Praesent et magna sed justo auctor ullamcorper ut ac turpis. Vivamus at pellentesque risus. Cras sit amet odio ac felis gravida euismod. Phasellus orci libero, tempor nec ante ut, gravida elementum libero. Vestibulum vitae bibendum ligula, eu sagittis odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/feed/</wfw:commentRss>
+			<wfw:commentRss>/demos/magazine/technology/2017/04/19/surface-pro-5-release-date-news-and-rumors/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

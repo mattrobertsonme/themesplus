@@ -9,19 +9,19 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Happy Technology &lsaquo; Log In</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='/magazine/technology/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' href='/demos/magazine/technology/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
-	<link rel="icon" href="/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png" sizes="32x32" />
-<link rel="icon" href="/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-180x180.png" />
+	<link rel="icon" href="/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-180x180.png" />
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2017/08/cropped-logo-1-270x270.png" />
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
 		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Happy Technology</a></h1>
 	
-<form name="loginform" id="loginform" action="/magazine/technology/wp-login.php" method="post">
+<form name="loginform" id="loginform" action="/demos/magazine/technology/wp-login.php" method="post">
 	<p>
 		<label for="user_login">Username or Email Address<br />
 		<input type="text" name="log" id="user_login" class="input" value="" size="20" /></label>
@@ -39,7 +39,7 @@
 </form>
 
 <p id="nav">
-	<a href="/magazine/technology/wp-login.php?action=lostpassword">Lost your password?</a>
+	<a href="/demos/magazine/technology/wp-login.php?action=lostpassword">Lost your password?</a>
 </p>
 
 <script type="text/javascript">
@@ -63,7 +63,7 @@ wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
 
-	<p id="backtoblog"><a href="/magazine/technology/">&larr; Back to Happy Technology</a></p>
+	<p id="backtoblog"><a href="/demos/magazine/technology/">&larr; Back to Happy Technology</a></p>
 	
 	</div>
 
