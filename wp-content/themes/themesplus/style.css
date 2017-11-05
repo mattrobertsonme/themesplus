@@ -306,4 +306,6 @@ ol.lower-alpha{list-style-type:lower-alpha}
 ol.lower-roman{list-style-type:lower-roman}
 ol.upper-alpha{list-style-type:upper-alpha}
 ol.upper-roman{list-style-type:upper-roman}
+ul .version-list{border-top:1px solid #CCC;list-style:none}
+nav.pills,ul.nav.nav-tabs{margin-bottom:25px}
 img:hover{opacity:.8}
