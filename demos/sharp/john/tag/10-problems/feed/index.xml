@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>10 Problems &#8211; John Doe</title>
+	<atom:link href="/demos/sharp/john/tag/10-problems/feed/" rel="self" type="application/rss+xml" />
+	<link>/demos/sharp/john</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Sat, 18 Nov 2017 09:32:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+
+<image>
+	<url>/demos/sharp/john/wp-content/uploads/2017/11/cropped-logo-32x32.png</url>
+	<title>10 Problems &#8211; John Doe</title>
+	<link>/demos/sharp/john</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>10 Problems Only Smurfs Will Understand</title>
+		<link>/demos/sharp/john/10-problems-only-smurfs-will-understand/</link>
+		<comments>/demos/sharp/john/10-problems-only-smurfs-will-understand/#comments</comments>
+		<pubDate>Fri, 05 May 2017 10:32:26 +0000</pubDate>
+		<dc:creator><![CDATA[John Doe]]></dc:creator>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[10 Problems]]></category>
+
+		<guid isPermaLink="false">http://localhost/sharp-theme-v1/?p=1</guid>
+		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus eu justo non condimentum. Donec cursus euismod convallis. Ut nec<a href="/demos/sharp/john/10-problems-only-smurfs-will-understand/" rel="nofollow">...</a>]]></description>
+				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus faucibus eu justo non condimentum. Donec cursus euismod convallis. Ut nec ex quis dui ultricies faucibus. Duis facilisis ex id risus tempor imperdiet. Vestibulum congue ac arcu id vulputate. Duis nibh erat, lobortis eget ipsum in, vestibulum tristique enim. Aenean dictum posuere lorem id volutpat. Donec mollis semper volutpat. Vestibulum ut justo ac ex mollis blandit. Nulla facilisi. Nullam molestie tortor lobortis enim placerat fermentum. Quisque ac volutpat enim.</p>
+<p>Aliquam interdum lacus lobortis mi tincidunt, ac suscipit risus sollicitudin. Maecenas condimentum est eget urna malesuada egestas. Morbi eleifend quam augue, vitae venenatis tellus venenatis in. Proin tempus magna posuere nibh condimentum, vitae ultricies magna tincidunt. Aenean ut congue lacus. Maecenas varius pulvinar libero et ultricies. Vivamus ut lacinia lectus, ut eleifend orci. Nunc nec est id nisl consectetur rutrum vitae vel lacus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse ullamcorper lacus a tempor tincidunt. Vivamus finibus nunc leo. Maecenas lacinia tincidunt ante. Aenean placerat, felis id pharetra fermentum, diam risus efficitur arcu, eu blandit lectus neque vel lorem.</p>
+<p>Etiam mollis orci sit amet sapien ultrices, venenatis consequat nunc ultricies. Pellentesque sodales tempor consectetur. Ut consectetur, turpis id commodo consequat, dui tellus feugiat sem, non aliquam erat ex id neque. Proin odio nunc, maximus vitae egestas et, condimentum sit amet ante. Nulla nec venenatis quam. Proin gravida tincidunt diam, nec aliquet dolor commodo sit amet. Suspendisse eu rhoncus nibh. Fusce elementum sem eu porttitor posuere. Fusce lacinia congue turpis vitae euismod. Sed sagittis varius sapien et fringilla. Vivamus non facilisis mauris, sed facilisis velit. Donec ut facilisis sapien. Mauris interdum pulvinar purus id pretium. In hac habitasse platea dictumst.</p>
+<p>Nam imperdiet finibus finibus. Ut eleifend mi imperdiet augue ullamcorper convallis. Duis placerat urna eget dui volutpat euismod. Integer volutpat leo vitae maximus aliquam. Phasellus consectetur sapien sed venenatis finibus. Duis pulvinar commodo turpis. Suspendisse dignissim nec lectus at feugiat.</p>
+<p>Donec auctor erat nisl, vitae tincidunt sapien consequat ac. Vivamus pellentesque ante sed pulvinar egestas. Duis at sapien sem. Ut vel auctor sapien. Aliquam imperdiet in leo ac bibendum. Aliquam mollis ex tempus, vestibulum massa ac.</p>
+]]></content:encoded>
+			<wfw:commentRss>/demos/sharp/john/10-problems-only-smurfs-will-understand/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
