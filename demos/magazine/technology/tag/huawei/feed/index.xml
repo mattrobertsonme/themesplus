@@ -12,11 +12,11 @@
 	<atom:link href="/demos/magazine/technology/tag/huawei/feed/" rel="self" type="application/rss+xml" />
 	<link>/demos/magazine/technology</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 22 Aug 2017 12:59:52 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Dec 2017 09:02:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.1</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png</url>
@@ -44,7 +44,7 @@
 <p>Morbi quis ante id diam blandit aliquam. Proin sem sem, fringilla vitae mauris et, tempus lacinia dolor. Donec aliquet felis malesuada nunc finibus, a euismod risus pretium. Pellentesque hendrerit felis id pharetra semper. Nunc vel suscipit sapien. Praesent et magna sed justo auctor ullamcorper ut ac turpis. Vivamus at pellentesque risus. Cras sit amet odio ac felis gravida euismod. Phasellus orci libero, tempor nec ante ut, gravida elementum libero. Vestibulum vitae bibendum ligula, eu sagittis odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/demos/magazine/technology/2017/04/18/huawei-finally-has-a-phone-worthy-of-the-leica-brand/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
+		<slash:comments>3</slash:comments>
 		</item>
 	</channel>
 </rss>

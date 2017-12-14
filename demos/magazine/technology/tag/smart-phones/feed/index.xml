@@ -12,11 +12,11 @@
 	<atom:link href="/demos/magazine/technology/tag/smart-phones/feed/" rel="self" type="application/rss+xml" />
 	<link>/demos/magazine/technology</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 22 Aug 2017 12:59:52 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 02 Dec 2017 09:02:02 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.8.1</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 
 <image>
 	<url>/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png</url>
@@ -66,10 +66,10 @@
 <p>Morbi quis ante id diam blandit aliquam. Proin sem sem, fringilla vitae mauris et, tempus lacinia dolor. Donec aliquet felis malesuada nunc finibus, a euismod risus pretium. Pellentesque hendrerit felis id pharetra semper. Nunc vel suscipit sapien. Praesent et magna sed justo auctor ullamcorper ut ac turpis. Vivamus at pellentesque risus. Cras sit amet odio ac felis gravida euismod. Phasellus orci libero, tempor nec ante ut, gravida elementum libero. Vestibulum vitae bibendum ligula, eu sagittis odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.</p>
 ]]></content:encoded>
 			<wfw:commentRss>/demos/magazine/technology/2017/04/18/huawei-finally-has-a-phone-worthy-of-the-leica-brand/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
+		<slash:comments>3</slash:comments>
 		</item>
 		<item>
-		<title>Samsung&#039;s Galaxy S8 launch will happen without Bixby Voice</title>
+		<title>Samsung&#8217;s Galaxy S8 launch will happen without Bixby Voice</title>
 		<link>/demos/magazine/technology/2017/04/18/samsungs-galaxy-s8-launch-will-happen-without-bixby-voice/</link>
 		<comments>/demos/magazine/technology/2017/04/18/samsungs-galaxy-s8-launch-will-happen-without-bixby-voice/#comments</comments>
 		<pubDate>Tue, 18 Apr 2017 14:00:50 +0000</pubDate>
@@ -82,6 +82,32 @@
 		<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ut neque quis suscipit. Nulla sed libero venenatis, scelerisque ante<a href="/demos/magazine/technology/2017/04/18/samsungs-galaxy-s8-launch-will-happen-without-bixby-voice/" rel="nofollow">...</a>]]></description>
 				<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices ut neque quis suscipit. Nulla sed libero venenatis, scelerisque ante vitae, convallis dui. Sed molestie lacus eget urna lacinia, eget facilisis neque tempor. Phasellus et tellus tellus. Ut tortor nisl, posuere ut tincidunt vel, blandit a orci. Ut consequat, turpis et tincidunt malesuada, ante est feugiat turpis, et tempor sem ligula at quam. Integer tincidunt pulvinar ex. Nam rutrum mattis ligula, vel fermentum massa hendrerit laoreet. Cras dictum convallis nunc. Sed mollis porta lorem eget tempor.</p>
 <p>Suspendisse velit enim, lobortis sed viverra a, mattis sit amet turpis. Morbi leo neque, auctor sit amet sagittis nec, facilisis a arcu. Nunc interdum ex nec velit rhoncus molestie. Donec id metus mauris. Mauris velit lectus, congue sed nunc vel, maximus laoreet nisi. Vivamus sit amet ipsum eleifend, venenatis felis nec, elementum lacus. Mauris magna sem, consectetur non porta vel, efficitur sed orci.</p>
+<table class="table table-striped">
+<thead>
+<tr>
+<th>Firstname</th>
+<th>Lastname</th>
+<th>Email</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>John</td>
+<td>Doe</td>
+<td>john@example.com</td>
+</tr>
+<tr>
+<td>Mary</td>
+<td>Moe</td>
+<td>mary@example.com</td>
+</tr>
+<tr>
+<td>July</td>
+<td>Dooley</td>
+<td>july@example.com</td>
+</tr>
+</tbody>
+</table>
 <p>Nulla gravida nunc tempor faucibus molestie. Vestibulum nec tempus dui. Aenean malesuada nec diam eget vulputate. Donec sit amet purus id augue consequat venenatis. Fusce vulputate eros felis, at tincidunt neque auctor sit amet. Mauris tellus elit, pretium nec facilisis sed, pellentesque eu nibh. Mauris quis velit nisi. Curabitur et accumsan ipsum, eu iaculis neque. Vestibulum nibh risus, efficitur at massa in, efficitur eleifend ligula. Integer eu velit ante. Nulla a viverra elit, sit amet ultrices turpis. Sed eu erat a odio commodo porta pulvinar at tellus.</p>
 <p>Etiam finibus mauris sem, quis elementum dolor aliquam ut. Vivamus at sollicitudin orci. Morbi ultrices nisl ac dui convallis egestas. Curabitur dignissim faucibus velit, sed vulputate augue ullamcorper quis. Aliquam molestie blandit lacus, eget cursus nulla dapibus in. Nulla sed diam id libero aliquam tempus. In et fringilla ex, sed molestie tellus. Nam euismod metus lectus, et ultrices arcu placerat nec. Vivamus vestibulum augue turpis, eu laoreet ipsum blandit in. Nam ultrices nibh placerat neque mattis vehicula.</p>
 <p>Morbi quis ante id diam blandit aliquam. Proin sem sem, fringilla vitae mauris et, tempus lacinia dolor. Donec aliquet felis malesuada nunc finibus, a euismod risus pretium. Pellentesque hendrerit felis id pharetra semper. Nunc vel suscipit sapien. Praesent et magna sed justo auctor ullamcorper ut ac turpis. Vivamus at pellentesque risus. Cras sit amet odio ac felis gravida euismod. Phasellus orci libero, tempor nec ante ut, gravida elementum libero. Vestibulum vitae bibendum ligula, eu sagittis odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed.</p>

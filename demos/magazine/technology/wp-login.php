@@ -7,9 +7,9 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Happy Technology &lsaquo; Log In</title>
+	<title>Log In &lsaquo; Happy Technology &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' href='/demos/magazine/technology/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' href='/demos/magazine/technology/wp-admin/load-styles.php?c=1&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.9.1' type='text/css' media='all' />
 <meta name='robots' content='noindex,follow' />
 	<meta name="viewport" content="width=device-width" />
 	<link rel="icon" href="/demos/magazine/technology/wp-content/uploads/2017/08/cropped-logo-1-32x32.png" sizes="32x32" />
@@ -19,7 +19,7 @@
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
-		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Happy Technology</a></h1>
+		<h1><a href="https://wordpress.org/" title="Powered by WordPress" tabindex="-1">Powered by WordPress</a></h1>
 	
 <form name="loginform" id="loginform" action="/demos/magazine/technology/wp-login.php" method="post">
 	<p>
@@ -52,13 +52,6 @@ d.select();
 }, 200);
 }
 
-/**
- * Filters whether to print the call to `wp_attempt_focus()` on the login screen.
- *
- * @since 4.8.0
- *
- * @param bool $print Whether to print the function call. Default true.
- */
 wp_attempt_focus();
 if(typeof wpOnload=='function')wpOnload();
 </script>
